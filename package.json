@@ -7,6 +7,9 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
+  "engines": {
+    "node": ">=18 <19"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marseille78/easy_learn_backend.git"
